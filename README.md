@@ -9,7 +9,7 @@ Snake game, made with python & curses. Play in the terminal. For Linux, Mac OS a
 ## How to install
 
 ```shell
-$ pip install snake-game
+$ pip install play-snake
 ```
 
 ## How to play
